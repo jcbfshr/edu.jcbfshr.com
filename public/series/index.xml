@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Edu | Jacob Fisher</title>
+        <link>https://edu.jcbfshr.com/series/</link>
+        <description>Latest blog posts from Edu | Jacob Fisher</description>
+
+        
+        <language>en-gb</language>
+        
+
+        
+
+        
+
+        
+        <copyright>© MMXXI, Jacob Fisher</copyright>
+        
+
+        
+
+        
+        <atom:link href="https://edu.jcbfshr.com/series/index.xml" rel="self" type="application/rss+xml" />
+        
+
+        
+            
+        <item>
+          <title>Verdun</title>
+          <link>https://edu.jcbfshr.com/history/verdun/</link>
+          <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+          
+          <guid>https://edu.jcbfshr.com/history/verdun/</guid>
+          <description>The Germans had not launched a major offensive on the Western Front since November 1914. Thus enter Verdun: the longest, and amongst the bloodiest of The First World War, which ultimately saw Germany’s own plan massively backfire, whilst the Russian war machine was now in full swing, the British and French began an offensive at the Somme (involving the first ever use of tanks), and the Romanians (following two years of neutrality) sided with the Triple Entente.</description>
+        </item>
+            
+        
+    </channel>
+</rss>

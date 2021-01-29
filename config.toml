@@ -1,0 +1,52 @@
+baseURL = "https://edu.jcbfshr.com"
+languageCode = "en-gb"
+title = "Edu | Jacob Fisher"
+author = "Jacob Fisher"
+copyright = "© MMXXI, Jacob Fisher"
+paginate = 4
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "notrack"
+mainSections = ["history"]
+googleAnalytics = "UA-167536806-1"
+
+[params]
+    author = "Jacob Fisher"
+    siteHeading = "Edu | Jacob Fisher" # defaults to author
+    description = "travail pour l'école"
+    showBlogLatest = true
+    nBlogLatest = 4 # number of blog post om the home page
+    blogLatestHeading = "travail pour l'école"
+    featured = true
+    cssonly = false
+    mainSections = ["history"]
+
+    [params.social]
+        email = "jacob@jcbfshr.com"
+        personal-email = "jacob@jcbfshr.com"
+
+[permalinks]
+    posts = "/:sections/:slug/"
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 5
+
+[taxonomies]
+    year = "year"
+    month = "month"
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+[markup]
+    [markup.highlight]
+        style = "github"
+        tabWidth = 4
+
+[markup.goldmark.renderer]
+    unsafe = true
