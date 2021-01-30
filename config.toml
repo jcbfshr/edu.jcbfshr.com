@@ -1,4 +1,5 @@
 baseURL = "https://edu.jcbfshr.com"
+publishDir = "docs"
 languageCode = "en-gb"
 title = "Edu | Jacob Fisher"
 author = "Jacob Fisher"
