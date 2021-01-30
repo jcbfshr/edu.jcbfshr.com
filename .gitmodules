@@ -4,3 +4,7 @@
 [submodule "themes/notrack"]
 	path = themes/notrack
 	url = https://github.com/gevhaz/hugo-theme-notrack
+[submodule "public"]
+	path = public
+	url = https://github.com/jcbfshr/edu.jcbfshr.com.git
+	branch = main
