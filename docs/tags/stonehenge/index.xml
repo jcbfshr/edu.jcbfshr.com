@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Edu | Jacob Fisher</title>
-        <link>https://edu.jcbfshr.com/tags/</link>
+        <link>https://edu.jcbfshr.com/tags/stonehenge/</link>
         <description>Latest blog posts from Edu | Jacob Fisher</description>
 
         
@@ -22,7 +22,7 @@
         
 
         
-        <atom:link href="https://edu.jcbfshr.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://edu.jcbfshr.com/tags/stonehenge/index.xml" rel="self" type="application/rss+xml" />
         
 
         
